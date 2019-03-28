@@ -1,0 +1,10 @@
+C:\Users\busra\source\repos\kronometre yaptım\kronometre yaptım\bin\Debug\kronometre yaptım.exe.config
+C:\Users\busra\source\repos\kronometre yaptım\kronometre yaptım\bin\Debug\kronometre yaptım.exe
+C:\Users\busra\source\repos\kronometre yaptım\kronometre yaptım\bin\Debug\kronometre yaptım.pdb
+C:\Users\busra\source\repos\kronometre yaptım\kronometre yaptım\obj\Debug\kronometre yaptım.csprojAssemblyReference.cache
+C:\Users\busra\source\repos\kronometre yaptım\kronometre yaptım\obj\Debug\kronometre_yaptım.Form1.resources
+C:\Users\busra\source\repos\kronometre yaptım\kronometre yaptım\obj\Debug\kronometre_yaptım.Properties.Resources.resources
+C:\Users\busra\source\repos\kronometre yaptım\kronometre yaptım\obj\Debug\kronometre yaptım.csproj.GenerateResource.cache
+C:\Users\busra\source\repos\kronometre yaptım\kronometre yaptım\obj\Debug\kronometre yaptım.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\kronometre yaptım\kronometre yaptım\obj\Debug\kronometre yaptım.exe
+C:\Users\busra\source\repos\kronometre yaptım\kronometre yaptım\obj\Debug\kronometre yaptım.pdb
